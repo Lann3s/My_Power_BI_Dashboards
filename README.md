@@ -2,9 +2,8 @@
 
 ![Dashboard Page 1](/images/pro1_pag1.png)
 
-[Veja a versão interativa dessa dashboard no Power BI Service](https://app.powerbi.com/groups/me/reports/8dde87a8-019e-4038-a9de-9ba714b72c14/037162d7274a42ebc05d?experience=power-bi)
 
-## Introduction
+## Introdução
 
 O mercado de tecnologia é dinâmico e, para profissionais em transição de carreira, a falta de clareza sobre salários e exigências pode levar a decisões erradas. Este dashboard foi projetado para responder:
 
