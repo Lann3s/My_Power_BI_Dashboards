@@ -1,8 +1,8 @@
-# Análise Estratégica do Mercado de Dados 2024: Saários, Tendências e Oportunidades
+# Análise Estratégica do Mercado de Dados 2024: Salários, Tendências e Oportunidades
 
 ![Dashboard Page 1](/images/pro1_pag1.png)
 
-[View interactive dashboard here on the Power BI Service](https://app.powerbi.com/groups/me/reports/8dde87a8-019e-4038-a9de-9ba714b72c14/037162d7274a42ebc05d?experience=power-bi)
+[Veja a versão interativa dessa dashboard no Power BI Service](https://app.powerbi.com/groups/me/reports/8dde87a8-019e-4038-a9de-9ba714b72c14/037162d7274a42ebc05d?experience=power-bi)
 
 ## Introduction
 
